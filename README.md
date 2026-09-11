@@ -54,7 +54,7 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 
 ### ⚡ Quick Stats
 
-![Hailemariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hailedev5&show_icons=true&theme=radial)
+![Hailemariam's GitHub Stats](https://github-stats-extended.vercel.app/api?username=hailedev5)
 
 ---
 <div class="social-icons">
