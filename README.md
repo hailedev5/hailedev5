@@ -5,7 +5,7 @@ I'm a **Frontend Web Developer** and **Backend Developer** (supported by AI), pa
 ---
 
 ### 🌐 My Website
-Check out my portfolio and live projects at **[hailedev5-dotcom.github.io](https://hailedev5-dotcom.github.io)**.
+Check out my portfolio and live projects at **[hailedev5.github.io](https://hailedev5.github.io)**.
 
 ---
 
