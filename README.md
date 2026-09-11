@@ -1,4 +1,4 @@
-# Hi there, I'm Hailemariam Tesfaye 👋
+<h5 style="color:cyan"># Hi there, I'm Hailemariam Tesfaye 👋</h5>
 I'm a **Frontend Web Developer** and **Backend Developer** (supported by AI), passionate about building web applications and mobile apps.
 
 ---
