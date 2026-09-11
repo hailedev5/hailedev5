@@ -63,6 +63,6 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
              <a href="https://github.com/hailedev5" style="display:flex;justify-content: center;align-items: center;margin:20px 10px" id="hi"><img src="github.png" alt="github icon" style="height:40px;width:40px"></a>
              <a href="mailto:hailedev5@gmail.com" style="display:flex;justify-content: center;align-items: center;margin:20px 10px"><img src="mail.png" style="height:40px;width:40px"/></a>
 </div>
-<h1 style="color:Gold">Certificates</h1>
+<h1 style="color:Gold">🏅Certificates</h1>
  <img src="codeliber.png" id="codeliber" style="height:200px;width:300px"/>
 📫 **Reach out:** Feel free to explore my repositories or check out my website!
