@@ -1,9 +1,4 @@
 # Hi there, I'm Hailemariam Tesfaye 👋
-<style>
-  body{
-background-color:cyan
-  }
-</style>
 I'm a **Frontend Web Developer** and **Backend Developer** (supported by AI), passionate about building web applications and mobile apps.
 
 ---
