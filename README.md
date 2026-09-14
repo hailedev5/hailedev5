@@ -1,4 +1,5 @@
 <h5 style="color:cyan"># Hi there, I'm Hailemariam Tesfaye 👋</h5>
+<img src="https://komarev.com/ghpvc/?username=hailedev5&color=ffff00"/>
 I'm a **Frontend Web Developer** and **Backend Developer** (supported by AI), passionate about building web applications and mobile apps.
 
 ---
