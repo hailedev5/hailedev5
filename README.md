@@ -2,6 +2,7 @@
 <div style="display:flex;align-items:center;justify-conent: center">
 <img src="https://komarev.com/ghpvc/?username=hailedev5&color=ffff00"/>
 <img src="https://img.shields.io/badge/Commits%20this%20month-82-brightgreen"/>
+<img src="https://img.shields.io/github/followers/hailedev5?style=social"/>
 </div>
 I'm a **Frontend Web Developer** and **Backend Developer** (supported by AI), passionate about building web applications and mobile apps.
 
