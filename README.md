@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<h1> Hi there, I'm Hailemariam Tesfaye <img src="verified.svg"/>👋</h1>
+<h1> Hi there, I'm Hailemariam Tesfaye <img src="verified.svg" height=30px width=30px/>👋</h1>
 <div style="display:flex;align-items:center;justify-conent: center">
-<img src="https://komarev.com/ghpvc/?username=hailedev5&color=ffff00" height="30px" width="30px"/>
+<img src="https://komarev.com/ghpvc/?username=hailedev5&color=cyan" />
 <img src="https://img.shields.io/badge/Commits%20this%20month-82-brightgreen"/>
 <img src="https://img.shields.io/github/followers/hailedev5?style=social"/>
 <img src="https://badges.pufler.dev/repos/hailedev5"/>
