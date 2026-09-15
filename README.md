@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <h1> Hi there, I'm Hailemariam Tesfaye 👋</h1>
-<p align="center"><img src="./screenshots/bootstrap5.png" alt="bootstrap-stack" width="400" /></p>
+<p align="center">haile</p>
 <div style="display:flex;align-items:center;justify-conent: center">
 <img src="https://komarev.com/ghpvc/?username=hailedev5&color=ffff00"/>
 <img src="https://img.shields.io/badge/Commits%20this%20month-82-brightgreen"/>
