@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <h1> Hi there, I'm Hailemariam Tesfaye <img src="logo.svg" alt="verified"/>👋</h1>
 <div style="display:flex;align-items:center;justify-conent: center">
 <img src="https://komarev.com/ghpvc/?username=hailedev5&color=00c3d1" />
@@ -74,4 +73,3 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
  <img src="codeliber.png" id="codeliber" style="height:200px;width:300px"/>
 ___
 📫 **Reach out:** Feel free to explore my repositories or check out my website!
-</html>
