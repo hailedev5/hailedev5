@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<h1> Hi there, I'm Hailemariam Tesfaye 👋</h1>
+<h1> Hi there, I'm Hailemariam Tesfaye <img src="verified.svg"/>👋</h1>
 <div style="display:flex;align-items:center;justify-conent: center">
 <img src="https://komarev.com/ghpvc/?username=hailedev5&color=ffff00"/>
 <img src="https://img.shields.io/badge/Commits%20this%20month-82-brightgreen"/>
