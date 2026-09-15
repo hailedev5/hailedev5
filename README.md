@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <h1> Hi there, I'm Hailemariam Tesfaye 👋</h1>
 <div style="display: inline-flex; align-items: center; gap: 10px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
   <h1 style="margin: 0; font-size: 2rem; font-weight: 700; color: #0f172a; letter-spacing: -0.025em; text-transform: lowercase;">
@@ -80,4 +81,6 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 </div>
 <h1 style="color:Gold">🏅Certificates</h1>
  <img src="codeliber.png" id="codeliber" style="height:200px;width:300px"/>
+___
 📫 **Reach out:** Feel free to explore my repositories or check out my website!
+</html>
