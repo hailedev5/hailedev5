@@ -74,5 +74,5 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 <h1 style="color:Gold">🏅Certificates</h1>
  <img src="codeliber.png" id="codeliber" style="height:170px;width:300px"/>
 <div>
-📫 <b>Reach out:</b>Feel free to explore my repositories or check out my website
+📫 <b>Reach out:</b> Feel free to explore my repositories or check out my website
 !</div>
