@@ -6,6 +6,8 @@
 <img src="https://badges.pufler.dev/repos/hailedev5"/>
 <img src="https://img.shields.io/github/stars/hailedev5?style=social"
 </div>
+---
+
 I'm a **Frontend Web Developer** and **Backend Developer** (supported by AI), passionate about building web applications and mobile apps.
 
 ---
