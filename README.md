@@ -1,4 +1,4 @@
-<img src="Gemini.png" height=150px width=50px/><h1 align="center"> Hi there, I'm Hailemariam Tesfaye <img src="verified-logo.svg" alt="verified"/>👋
+<img src="Gemini.png" height=150px width=50px/><h1 align="center"> Hi there, I'm Hailemariam Tesfaye <img src="verified-logo.svg" alt="verified"/>👋</h1>
 <div display=flex align-items=center justify-content=center>
 <img src="https://komarev.com/ghpvc/?username=hailedev5&color=00c3d1" />
 <img src="https://img.shields.io/badge/Commits%20this%20month-82-brightgreen"/>
@@ -60,8 +60,7 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
                            </tr>
                     </table>
 
-### ⚡ Quick Stats
-
+<marquee><h3>⚡ Quick Stats</h3><marquee>
 ![Hailemariam's GitHub Stats](https://github-stats-extended.vercel.app/api?username=hailedev5)
 
 ---
