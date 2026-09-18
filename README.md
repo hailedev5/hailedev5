@@ -1,3 +1,4 @@
+<img src="Gemini.png" height=50px width=500x/>
 <h1 align="center"> Hi there, I'm Hailemariam Tesfaye <img src="verified-logo.svg" alt="verified"/>👋</h1>
 <div display=flex align-items=center justify-content=center>
 <img src="https://komarev.com/ghpvc/?username=hailedev5&color=00c3d1" />
