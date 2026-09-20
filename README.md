@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002C45,50:203A43,100:2C5364&height=220&section=header&text=Hello%20There&fontSize=52&fontColor=00C8FF&animation=fadeIn&fontAlignY=38&desc=The%20full%20stack%20%7C%20developer%2C%20hailemariam%20tesfaye%2C%20%F0%9F%87%AA%F0%9F%87%B9&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002C45,50:002C45,100:2C5364&height=220&section=header&text=Hello%20There&fontSize=52&fontColor=00C8FF&animation=fadeIn&fontAlignY=38&desc=The%20full%20stack%20%7C%20developer%2C%20hailemariam%20tesfaye%2C%20%F0%9F%87%AA%F0%9F%87%B9&descAlignY=60&descSize=18"/>
 <img src="Gemini.png" height=150px width=50px align="center"/><h1 align="center"> Hi there, I'm Hailemariam Tesfaye <img src="verified-logo.svg" alt="verified"/>👋</h1>
 <div display=flex align-items=center justify-content=center>
 <img src="https://komarev.com/ghpvc/?username=hailedev5&color=00c3d1" />
