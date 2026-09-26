@@ -30,6 +30,11 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
   <img src=" https://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://dev.to/nazanin_ashrafi/what-is-bootstrap-and-should-you-use-it-a-simple-explanation-for-a-total-newbie-33h&ved=2ahUKEwi4is7czIyXAxX1TKQEHY6lLhcQqoUBegQICRAB&usg=AOvVaw2ZLbgVuHQyvo_TB_vNM7m5" alt="Markdown" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="50px" width="50px"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png"/>
 </p>
 
 - **Frontend** HTML5, CSS3, JavaScript
