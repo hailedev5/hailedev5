@@ -28,9 +28,11 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)&ved=2ahUKEwiS4PfoyoyXAxWHT6QEHfpsEBoQqoUBegQIAxAB&usg=AOvVaw0AijF1MqQvrrfcDV-wO7ZG:" width="50px" width="50px"/>
 </p>
 
-- **Frontend:** HTML5, CSS3, JavaScript
+- **Frontend** HTML5, CSS3, JavaScript
 - **Backend & Scripting:** Python
 - **Documentation & Formatting:** Markdown
 - **Focus:** Web Development & App Creation
