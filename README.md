@@ -10,7 +10,7 @@
 <img src="verified-logo.svg" alt="verified" height=20px width=20px/>
 
 I'm a **Frontend Web Developer** and **Backend Developer** (supported by AI), passionate about building web applications and mobile apps.
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 ---
 
 ### 🌐 My Website
