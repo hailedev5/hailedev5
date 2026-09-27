@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002C45,70:002C45,210:002C45&height=240&section=header&text=Hello%20There%20👋&fontSize=52&fontColor=00C8FF&animation=fadeIn&fontAlignY=38&desc=The%20full%20stack%20developer%2C%20hailemariam%20tesfaye%2C%20%F0%9F%87%AA%F0%9F%87%B9&descAlignY=60&descSize=30"/>
 <img src="Gemini.png" height=150px width=50px align="center"/><h1 align="center"> Hi there, I'm Hailemariam Tesfaye <img src="verified-logo.svg" alt="verified"/>👋</h1>
 <div display=flex align-items=center justify-content=center>
-  <img src="https://komarev.com/ghpvc/?username=Hayato-shino05&style=for-the-badge&color=96CEB4&labelColor=1a1a1a&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hailedev5&style=for-the-badge&color=96CEB4&labelColor=1a1a1a&label=Profile+Views" alt="Profile views" />
 <img src="https://img.shields.io/badge/Commits%20this%20month-82-brightgreen"/>
   <a href="https://github.com/hailedev5" target="_blank">
     <img src="https://img.shields.io/github/followers/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Followers" />
