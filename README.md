@@ -6,7 +6,7 @@
   <a href="https://github.com/hailedev5" target="_blank">
     <img src="https://img.shields.io/github/followers/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Followers" />
   </a>
-    <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=hailedev5@gmail.com&su=Job%20Opportunity" target="_blank">
+    <a href="mailto:hailedev5@gmail.com" >
     <img src="https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Email" />
   </a>
  <img
