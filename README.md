@@ -3,8 +3,11 @@
 <div display=flex align-items=center justify-content=center>
 <img src="https://komarev.com/ghpvc/?username=hailedev5&color=00c3d1" />
 <img src="https://img.shields.io/badge/Commits%20this%20month-82-brightgreen"/>
-<img src="https://img.shields.io/github/followers/hailedev5?style=social"/>
-<img src="https://badges.pufler.dev/repos/hailedev5"/>
+  <a href="https://github.com/hailedev5" target="_blank">
+    <img src="https://img.shields.io/github/followers/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Followers" />
+  </a>
+ <img
+src="https://badges.pufler.dev/repos/hailedev5"/>
 <img src="https://img.shields.io/github/stars/hailedev5?style=social"
 </div>
 <img src="verified-logo.svg" alt="verified" height=20px width=20px/>
