@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002C45,70:002C45,210:002C45&height=240&section=header&text=Hello%20There%20👋&fontSize=52&fontColor=00C8FF&animation=fadeIn&fontAlignY=38&desc=The%20full%20stack%20developer%2C%20hailemariam%20tesfaye%2C%20%F0%9F%87%AA%F0%9F%87%B9&descAlignY=60&descSize=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002C45,70:002C45,210:002C45&height=240&section=header&text=Hello%20There%%20stack%20developer%2C%20hailemariam%20tesfaye%2C%20%F0%9F%87%AA%F0%9F%87%B9&descAlignY=60&descSize=30"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Junior+Fullstack+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Architecture+Expert+%E2%98%81%EF%B8%8F;Clean+Code+Enthusiast+%F0%9F%92%8E;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
 <img src="Gemini.png" height=150px width=50px align="center"/><h1 align="center"> Hi there, I'm Hailemariam Tesfaye <img src="verified-logo.svg" alt="verified"/>👋</h1>
 <div display=flex align-items=center justify-content=center>
@@ -20,7 +20,7 @@ src="https://badges.pufler.dev/repos/hailedev5"/>
 <img src="verified-logo.svg" alt="verified" height=20px width=20px/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90f-4cd2ce3e1852.gif"/>
-<h1>About Me</h1>
+<h1>About Me<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"></h1>
 
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />I'm a **Frontend Web Developer** and **Backend Developer** (supported by AI), passionate about building web applications and mobile apps.
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
