@@ -79,6 +79,7 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 ---
 
 <marquee><h3>⚡Github Quick Stats</h3><marquee>
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 ![Hailemariam's GitHub Stats](https://github-stats-extended.vercel.app/api?username=hailedev5)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hailedev5&theme=react"/>
 ---
