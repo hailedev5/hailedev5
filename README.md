@@ -46,7 +46,8 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   &nbsp;&nbsp;
 <img src="java.png" width="50px" height="50px"/>
-
+&nbsp;&nbsp;    
+<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="50" height="50">
   <br>
     &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="50px"width="50px"/>
