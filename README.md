@@ -97,7 +97,7 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hailedev5&theme=react"/>
 <br>
-### 📩Contact Me
+<h1>📩Contact Me</h1>
 <div class="social-icons">
            &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://t.me/fikeeditz10" style="justify-content:center;align-items:center;display:flex;margin:20px 10px" id="hi"> <img src="logo telegram.svg" alt="telegram logo" style="height:40px;width:40px;display:flex"></a> &nbsp;&nbsp;&nbsp;&nbsp;
              <a href="https://github.com/hailedev5" style="display:flex;justify-content: center;align-items: center;margin:20px 10px" id="hi"><img src="github.png" alt="github icon" style="height:40px;width:40px"></a> &nbsp;&nbsp;&nbsp;&nbsp;
