@@ -7,7 +7,7 @@
 <h1 align="center"> Hi there, I'm Hailemariam Tesfaye <img src="verified-logo.svg" alt="verified"/>👋</h1>
 <div display=flex align-items=center justify-content=center>
   <img src="https://komarev.com/ghpvc/?username=hailedev5&style=for-the-badge&color=96CEB4&labelColor=1a1a1a&label=Profile+Views" alt="Profile views" />
-<img src="https://img.shields.io/badge/Commits%20this%20month-82-brightgreen"/>
+<img src="https://img.shields.io/badge/Commits%20this%20month-98-brightgreen"/>
   <a href="https://github.com/hailedev5" target="_blank">
     <img src="https://img.shields.io/github/followers/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Followers" />
   </a>
