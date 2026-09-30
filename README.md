@@ -6,7 +6,9 @@
 </p>
 <h1 align="center"> Hi there, I'm Hailemariam Tesfaye <img src="verified-logo.svg" alt="verified"/>👋</h1>
 <div display=flex align-items=center justify-content=center>
+<p align=center>
   <img src="https://komarev.com/ghpvc/?username=hailedev5&style=for-the-badge&color=96CEB4&labelColor=1a1a1a&label=Profile+Views" alt="Profile views" />
+</p>
     <img src="https://img.shields.io/github/followers/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Followers" />
   </a>
  
@@ -22,9 +24,6 @@
 src="https://badges.pufler.dev/repos/hailedev5"/>
 <img src="https://img.shields.io/github/stars/hailedev5?style=social"/>
 </div>
-<img src="verified-logo.svg" alt="verified" height=20px width=20px/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90f-4cd2ce3e1852.gif"/>
 <h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me</h1>
 
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />I'm a **Frontend Web Developer** and **Backend Developer** (supported by AI), passionate about building web applications and mobile apps.
