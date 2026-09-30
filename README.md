@@ -20,7 +20,7 @@
     <a href="mailto:hailedev5@gmail.com" >
     <img src="https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Email" />
   </a>
-<img src="https://img.shields.io/github/repos/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Repos" />
+<img src="https://img.shields.io/github/repository/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Repos" />
 <img src="https://img.shields.io/github/stars/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Stars" />
 </div>
 <h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me</h1>
