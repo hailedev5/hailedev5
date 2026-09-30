@@ -79,6 +79,7 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 ---
 
 <marquee><h3>⚡Github Quick Stats</h3><marquee>
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 <p align="center">
   <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=hailedev5&accent=ff694b&cell=square&hide_border=true"/>
   <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=hailedev5&accent=ff694b&cell=square&hide_border=true"/>
@@ -86,7 +87,6 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 <p align="center">
   <img width="720" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=hailedev5&accent=ff694b&cell=square&hide_border=true"/>
 </p>
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 <img src="https://streak-stats.demolab.com?user=hailedev5&count_private=true&theme=algolia&border_radius=20"/>
 ![Hailemariam's GitHub Stats](https://github-stats-extended.vercel.app/api?username=hailedev5)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hailedev5&theme=react"/>
