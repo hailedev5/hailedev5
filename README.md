@@ -19,7 +19,7 @@
   </a>
  <img
 src="https://badges.pufler.dev/repos/hailedev5"/>
-<img src="https://img.shields.io/github/stars/hailedev5?style=social"
+<img src="https://img.shields.io/github/stars/hailedev5?style=social"/>
 </div>
 <img src="verified-logo.svg" alt="verified" height=20px width=20px/>
 
