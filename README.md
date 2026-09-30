@@ -89,7 +89,6 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
   <img width="720" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=hailedev5&accent=ff694b&cell=square&hide_border=true"/>
 </p>
 <img src="https://streak-stats.demolab.com?user=hailedev5&count_private=true&theme=algolia&border_radius=20"/>
-![Hailemariam's GitHub Stats](https://github-stats-extended.vercel.app/api?username=hailedev5)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hailedev5&theme=react"/>
 ---
 ### 📩Contact Me
