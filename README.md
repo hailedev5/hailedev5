@@ -1,4 +1,4 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=70,267,27,95,230&height=300&section=header&text=Hailemariam%20Tesfaye&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer,%20building%20own%20coding%20Mind%20&descAlignY=51&descAlign=50"/>  
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=70,267,27,95,230&height=300&section=header&text=Hailemariam%20Tesfaye&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer,%20building%20own%20coding%20Mind%20&descAlignY=51&descAlign=50"/>  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Junior+Fullstack+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Architecture+Expert+%E2%98%81%EF%B8%8F;Clean+Code+Enthusiast+%F0%9F%92%8E;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
 <br>
 <p align="center">
@@ -7,7 +7,8 @@
 <h1 align="center"> Hi there, I'm Hailemariam Tesfaye <img src="verified-logo.svg" alt="verified"/>👋</h1>
 <div display=flex align-items=center justify-content=center>
   <img src="https://komarev.com/ghpvc/?username=hailedev5&style=for-the-badge&color=96CEB4&labelColor=1a1a1a&label=Profile+Views" alt="Profile views" />
-<img src="https://img.shields.io/badge/Commits%20this%20month-98-brightgreen"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://github-stat-badges.vercel.app/api/github&query=commits_month&label=Commits%20this%20month&color=brightgreen&logo=GitHub" /></a>
+  <a href="https://swift365.ru?tab=repositories" style="display:inline-block;"><img src="https://img.shields.io/badge/dynamic/json?url=https://github-stat-badges.vercel.app/api/github&query=commits_year&label=Commits%20this%20year&color=brightgreen&logo=GitHub" /></a>
   <a href="https://github.com/hailedev5" target="_blank">
     <img src="https://img.shields.io/github/followers/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Followers" />
   </a>
