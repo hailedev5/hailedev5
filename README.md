@@ -80,17 +80,23 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 
 <marquee><h3>⚡Github Quick Stats</h3><marquee>
 ![Hailemariam's GitHub Stats](https://github-stats-extended.vercel.app/api?username=hailedev5&bg_color=1f222e&text_color=ffffff&title_color=00ff00)
+<br>
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+<br>
 <p align="center">
   <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=hailedev5&accent=ff694b&cell=square&hide_border=true"/>
+<br>
   <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=hailedev5&accent=ff694b&cell=square&hide_border=true"/>
 </p>
+<br>
 <p align="center">
   <img width="720" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=hailedev5&accent=ff694b&cell=square&hide_border=true"/>
 </p>
+<br>
 <img src="https://streak-stats.demolab.com?user=hailedev5&count_private=true&theme=algolia&border_radius=20"/>
+<br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hailedev5&theme=react"/>
----
+<br>
 ### 📩Contact Me
 <div class="social-icons">
            &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://t.me/fikeeditz10" style="justify-content:center;align-items:center;display:flex;margin:20px 10px" id="hi"> <img src="logo telegram.svg" alt="telegram logo" style="height:40px;width:40px;display:flex"></a> &nbsp;&nbsp;&nbsp;&nbsp;
