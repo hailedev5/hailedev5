@@ -76,9 +76,9 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 ---
 
 <marquee><h3>⚡Github Quick Stats</h3><marquee>
-![Hailemariam's GitHub Stats](https://github-stats-extended.vercel.app/api?username=hailedev5&bg_color=1f222e&text_color=ffa600&title_color=00c8ff)
-<br>
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+<br>
+![Hailemariam's GitHub Stats](https://github-stats-extended.vercel.app/api?username=hailedev5&bg_color=1f222e&text_color=ffa600&title_color=00c8ff)
 <br>
 <p align="center">
   <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=hailedev5&accent=ff694b&cell=square&hide_border=true"/>
