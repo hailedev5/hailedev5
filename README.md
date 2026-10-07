@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/followers/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Followers" />
   <a href="https://committers.top/sri_lanka_public">
   </a>
- <img src="https://user-badge.committers.top/REGION/hailedev5.svg)](https://user-badge.committers.top/ethiopia/hailedev5"/>
+ <img src="https://user-badge.committers.top/ethiopia/hailedev5.svg)](https://user-badge.committers.top/ethiopia/hailedev5"/>
 
 ![Years Badge](https://badges.pufler.dev/years/hailedev5)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/hailedev5)
