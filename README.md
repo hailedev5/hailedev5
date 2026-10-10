@@ -8,7 +8,7 @@
 <div display=flex align-items=center justify-content=center>
 <p align=center>
   <a href="https://github.com/hailedev5">
-  <img src="https://komarev.com/ghpvc/?username=hailedev5&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hailedev5&style=for-the-badge" />
 </a>
 </p>
     <img src="https://img.shields.io/github/followers/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Followers" />
