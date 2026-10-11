@@ -82,6 +82,15 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 <br>
 ![Hailemariam's github stats stats](https://github-readme-stats.vercel.app/api?username=hailedev5&show_icons=true&theme=radical)
 <br>
+  <a href="https://wakatime.com/@alan">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=dark_github"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=hailedev5&langs_count=6&theme=dark_github" alt="Hailemariam's waketime stats" />
+    </picture>
+  </a>
 <p align="center">
   <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=hailedev5&accent=ff694b&cell=square&hide_border=true"/>
 <br>
