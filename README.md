@@ -82,13 +82,13 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 <br>
 ![Hailemariam's github stats stats](https://github-readme-stats.vercel.app/api?username=hailedev5&show_icons=true&theme=radical)
 <br>
-  <a href="https://wakatime.com/@alan">
+  <a href="https://wakatime.com/@hailedev5">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=dark_github"
+        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=hailedev5&langs_count=6&theme=light_github"
         media="(prefers-color-scheme: dark)"
       />
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=hailedev5&langs_count=6&theme=dark_github" alt="Hailemariam's waketime stats" />
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=hailedev5&langs_count=6&theme=light_github" alt="Hailemariam's waketime stats" />
     </picture>
   </a>
 <p align="center">
