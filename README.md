@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=hailedev5&style=for-the-badge" alt="profile views" />
 </p>
     <img src="https://img.shields.io/github/followers/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Followers" />
-  <a href="https://committers.top/sri_lanka_public">
   </a>
  <img src="https://user-badge.committers.top/ethiopia/hailedev5.svg)](https://user-badge.committers.top/ethiopia/hailedev5"/>
 
@@ -82,15 +81,7 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 <br>
 ![Hailemariam's github stats stats](https://github-readme-stats.vercel.app/api?username=hailedev5&show_icons=true&theme=radical)
 <br>
-  <a href="https://wakatime.com/@hailedev5">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=hailedev5&langs_count=6&theme=light_github"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=hailedev5&langs_count=6&theme=light_github" alt="Hailemariam's waketime stats" />
-    </picture>
-  </a>
+
 <p align="center">
   <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=hailedev5&accent=ff694b&cell=square&hide_border=true"/>
 <br>
