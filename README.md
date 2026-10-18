@@ -1,5 +1,5 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=70,267,27,95,230&height=300&section=header&text=Hailemariam%20Tesfaye&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer,%20building%20own%20coding%20Mind%20&descAlignY=51&descAlign=50"/>  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Junior+Fullstack+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Architecture+Expert+%E2%98%81%EF%B8%8F;Clean+Code+Enthusiast+%F0%9F%92%8E;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=63FFDF00&center=true&random=true&width=435&lines=junior+full+stack+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+clean+code+Enthusiast+%F0%9F%9A%80;Deep+learning+and+ML+expert+%F0%9F%A4%96)](https://git.io/typing-svg)
 <br>
 <p align="center">
 <img src="Gemini.png" height=150px width=50px align="center"/>
