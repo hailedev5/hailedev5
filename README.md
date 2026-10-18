@@ -41,9 +41,9 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
   &nbsp;&nbsp;
-<img src="java.png" width="50px" height="50px"/>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
 &nbsp;&nbsp;    
 <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="50" height="50">
     &nbsp;&nbsp;
