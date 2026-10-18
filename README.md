@@ -7,7 +7,6 @@
 <h1 align="center"> Hi there, I'm Hailemariam Tesfaye <img src="verified-logo.svg" alt="verified"/>👋</h1>
 <div display=flex align-items=center justify-content=center>
 <p align=center>
-<img src="https://img.shields.io/github/ghpvc/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Profile Views" />
 </p>
     <img src="https://img.shields.io/github/followers/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Followers" />
   </a>
@@ -112,5 +111,5 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 📫 <b>Reach out:</b> Feel free to explore my repositories or check out my website
 !</div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=70,267,12,95,230&height=120&section=footer" width="100%" alt="Haile AI Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=70,267,27,95,230&height=120&section=footer" width="100%" alt="Haile AI Footer Banner" />
 </p>
