@@ -1,5 +1,5 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=70,267,27,95,230&height=300&section=header&text=Hailemariam%20Tesfaye&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer,%20building%20own%20coding%20Mind%20&descAlignY=51&descAlign=50"/>  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=63FFDF00&center=true&random=true&width=435&lines=junior+full+stack+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+clean+code+Enthusiast+%F0%9F%9A%80;Deep+learning+and+ML+expert+%F0%9F%A4%96)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=63FFDF00&center=true&random=true&width=435&lines=junior+full+stack+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+clean+code+Enthusiast+%F0%9F%9A%80;Deep+learning+and+ML+expert+%F0%9F%A4%96)](https://git.io/typing-svg"/>
 <br>
 <p align="center">
 <img src="Gemini.png" height=150px width=50px align="center"/>
@@ -7,7 +7,7 @@
 <h1 align="center"> Hi there, I'm Hailemariam Tesfaye <img src="verified-logo.svg" alt="verified"/>👋</h1>
 <div display=flex align-items=center justify-content=center>
 <p align=center>
-  <img src="https://komarev.com/ghpvc/?username=hailedev5&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/ghpvc/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Profile Views" />
 </p>
     <img src="https://img.shields.io/github/followers/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Followers" />
   </a>
