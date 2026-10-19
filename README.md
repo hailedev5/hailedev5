@@ -29,7 +29,7 @@
 
 ### 🌐 My Website
 Check out my portfolio and live projects at **[hailedev5.github.io](https://hailedev5.github.io)**.
-**[hailedev5-github-io.vercel.app] (https://hailedev5-github-io.vercel.app)
+**[hailedev5-github-io.vercel.app] (https://hailedev5-github-io.vercel.app)**.
 
 ---
 
