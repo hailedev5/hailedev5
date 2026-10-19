@@ -100,10 +100,12 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
              <a href="mailto:hailedev5@gmail.com" style="display:flex;justify-content: center;align-items: center;margin:20px 10px"><img src="mail.png" style="height:40px;width:40px"/></a>
 </p>
 </div>
+<p align="center">
 <h1 style="color:Gold" align="center">🏅Certificates</h1>
  <img src="codeliber.png" id="codeliber" style="height:170px;width:300px"/>
 <br>
 <img src="udacitycerti.jpg" id="udacitycerti" style="height:170px;width:300px"/>
+                                                                                                                                     </p>
 <div>
 📫 <b>Reach out:</b> Feel free to explore my repositories or check out my website
 !</div>
