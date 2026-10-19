@@ -8,9 +8,8 @@
 <div display=flex align-items=center justify-content=center>
 <p align=center>
 <p align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=hailedev5&style=for-the-badge&label=Views:&color=blue"/></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=hailedev5&style=for-the-badge&label=Views:&color=green"/></a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=hailedev5&label=Views&color=116262"/>
 </p>
     <img src="https://img.shields.io/github/followers/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Followers" />
   </a>
