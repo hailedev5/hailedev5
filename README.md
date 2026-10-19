@@ -10,8 +10,6 @@
 </p>
     <img src="https://img.shields.io/github/followers/hailedev5?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Followers" />
   </a>
-![Years Badge](https://badges.pufler.dev/years/hailedev5)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/hailedev5)
  <a href="https://hailedev5.github.io" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Portfolio" />
 </a>
