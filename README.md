@@ -1,4 +1,4 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=130,97,56,95,20&height=300&section=header&text=Hailemariam%20Tesfaye&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer,%20building%20own%20coding%20Mind%20&descAlignY=51&descAlign=50"/>  
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,23,42&height=300&section=header&text=Hailemariam%20Tesfaye&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer,%20building%20own%20coding%20Mind%20&descAlignY=51&descAlign=50"/>  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=63FFDF00&center=true&random=true&width=435&lines=junior+full+stack+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+clean+code+Enthusiast+%F0%9F%9A%80;Deep+learning+and+ML+expert+%F0%9F%A4%96"/>
 <br>
 <p align="center">
@@ -107,5 +107,5 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 📫 <b>Reach out:</b> Feel free to explore my repositories or check out my website
 !</div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=70,267,27,95,230&height=120&section=footer" width="100%" alt="Haile AI Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,23,42&height=120&section=footer" width="100%" alt="Haile AI Footer Banner" />
 </p>
