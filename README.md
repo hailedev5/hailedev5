@@ -8,7 +8,7 @@
 <div display=flex align-items=center justify-content=center>
 <p align=center>
 <p align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=hailedev5&style=for-the-badge&label=Profile Views:&color=cyan"/></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=hailedev5&style=for-the-badge&label=Views:&color=cyan"/></a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=hailedev5&label=Views&color=116262"/>
 </p>
