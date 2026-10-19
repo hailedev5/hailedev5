@@ -110,7 +110,7 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
  <img src="codeliber.png" id="codeliber" style="height:170px;width:300px"/>
 <br>
 <img src="udacitycerti.jpg" id="udacitycerti" style="height:170px;width:300px"/>
-                                                                                                                                     </p>
+      </p>                                                                                                                   
 <div>
 📫 <b>Reach out:</b> Feel free to explore my repositories or check out my website
 !</div>
