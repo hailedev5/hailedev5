@@ -82,7 +82,7 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 <br>
 ![Hailemariam's github stats stats](https://github-readme-stats.vercel.app/api?username=hailedev5&show_icons=true&theme=radical)
 <br>
-  [![hailemariam's GitHub stats](https://github-stats-extended.vercel.app/api/?username=hailedev5 &show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Hailemariam's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=hailedev5&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=hailemariam's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+  <img src="https://github-stats-extended.vercel.app/api/?username=hailedev5&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=hailemariam's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"/>
 <br>
 <p align="center">
   <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=hailedev5&accent=ff694b&cell=square&hide_border=true"/>
