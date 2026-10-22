@@ -86,7 +86,7 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 <p align="center">
   <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=hailedev5&accent=ff694b&cell=square&hide_border=true"/>
 <br>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimrifats&layout=compact&theme=radical"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailedev5&layout=compact&theme=radical"/>
 </p>
 <br>
 <p align="center">
