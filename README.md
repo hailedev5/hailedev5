@@ -84,6 +84,8 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 <br>
   <img src="https://github-stats-extended.vercel.app/api/?username=hailedev5&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=hailemariam's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"/>
 <br>
+![GitHub Stats Card](https://gh-profile-stats.netlify.app/api/card?username=hailedev5&custom_title=Hailemariam%27s+stats)
+<br>
 <p align="center">
   <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=hailedev5&accent=ff694b&cell=square&hide_border=true"/>
 <br>
