@@ -90,12 +90,10 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 <img src="https://gh-profile-stats.netlify.app/api/card?username=hailedev5&custom_title=Hailemariam%27s+stats"/>
 <br>
  <img src="https://gh-profile-stats.netlify.app/api/langs?username=hailedev5&theme=sunset&layout=grid"/>
-</p>
 <br>
 <img src="https://streak-stats.demolab.com?user=hailedev5&count_private=true&theme=algolia&border_radius=20"/>
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hailedev5&theme=react"/>
-<br>
 </p>
 <h1>📩Contact Me</h1>
 <div class="social-icons">
