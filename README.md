@@ -81,6 +81,8 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 <p align="center">
 <img src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif"/>
 <br>
+<img src="https://gh-profile-stats.netlify.app/api/card?username=hailedev5&theme=forest&size=compact&compact_count=6"/>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=hailedev5&show_icons=true&theme=radical"/>
 <br>
   <img src="https://github-stats-extended.vercel.app/api/?username=hailedev5&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=hailemariam's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"/>
