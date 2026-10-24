@@ -89,7 +89,7 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 <br>
 <img src="https://gh-profile-stats.netlify.app/api/card?username=hailedev5&custom_title=Hailemariam%27s+stats"/>
 <br>
- [![](https://gh-profile-stats.netlify.app/api/langs?username=hailedev5&theme=sunset&layout=grid)](https://github.com/SoufianoDev/gh-profile-stats)
+ <img src="https://gh-profile-stats.netlify.app/api/langs?username=hailedev5&theme=sunset&layout=grid"/>
 </p>
 <br>
 <img src="https://streak-stats.demolab.com?user=hailedev5&count_private=true&theme=algolia&border_radius=20"/>
