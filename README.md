@@ -1,4 +1,4 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=300&section=header&text=Hailemariam%20Tesfaye&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer,%20building%20own%20coding%20Mind%20&descAlignY=51&descAlign=50"/>  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&fontColor=fdf9ff&height=300&section=header&text=Hailemariam%20Tesfaye&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer,%20building%20own%20coding%20Mind%20&descAlignY=51&descAlign=50"/> 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=63FFDF00&center=true&random=true&width=435&lines=junior+full+stack+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+clean+code+Enthusiast+%F0%9F%9A%80;Deep+learning+and+ML+expert+%F0%9F%A4%96"/>
 <br>
 <p align="center">
