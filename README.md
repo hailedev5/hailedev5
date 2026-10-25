@@ -44,7 +44,7 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
   &nbsp;&nbsp;
   <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/></th>
   &nbsp;&nbsp;
-    <th>  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100px" height="100px" /></th>
+    <th>  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="200px" height="200px" /></th>
   &nbsp;&nbsp;
      <th> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" /></th>
 &nbsp;&nbsp;    
