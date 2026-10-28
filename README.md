@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Email" />
   </a>
 </div>
-<h1><img src="https://user-images up.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me</h1>
+<h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30"/>About Me</h1>
 
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />I'm a **Frontend Web Developer** and **Backend Developer** (supported by AI), passionate about building web applications and mobile apps.
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
