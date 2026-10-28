@@ -38,7 +38,6 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 ### 🛠️ Languages & Tools
 
 <p align="left">
-<table>
 <tr>
  <th> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="300px" height="300px"/></th>
   &nbsp;&nbsp;
@@ -72,7 +71,6 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 &nbsp;&nbsp;
 <th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" height="300px" width="300px"/></th>
 </tr>
-</table>
 </p>
 
 - **Frontend** HTML5, CSS3, JavaScript
