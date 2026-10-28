@@ -39,37 +39,37 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 
 <p align="left">
 <tr>
- <th> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="300px" height="300px"/></th>
+ <th> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50px" height="50px"/></th>
   &nbsp;&nbsp;
-  <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="300px" height="300px"/></th>
+  <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50px" height="50px"/></th>
   &nbsp;&nbsp;
-    <th>  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width=300px" height="300px" /></th>
+    <th>  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width=50px" height="50px" /></th>
   &nbsp;&nbsp;
-     <th> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="300px" height="300px" /></th>
+     <th> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50px" height="50px" /></th>
 &nbsp;&nbsp;    
-<th><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="300px" height="300px"></th>
+<th><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="50px" height="50px"></th>
     &nbsp;&nbsp;
- <th> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="300px"width="300px"/></th>
+ <th> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="50px"width="50px"/></th>
   &nbsp;&nbsp;
- <th> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png"width="300px" height="300px"/></th>
+ <th> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png"width="50px" height="50px"/></th>
     &nbsp;&nbsp;
 <br>
   <tr>
-<th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png"width="300px" height="300px"/></th>
+<th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png"width="50px" height="50px"/></th>
     &nbsp;&nbsp;
- <th> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png"width="300px" height="300px"/></th>
+ <th> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png"width="50px" height="50px"/></th>
     &nbsp;&nbsp;
- <th> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png"width="300px" height="300px"/></th>
+ <th> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png"width="50px" height="50px"/></th>
   &nbsp;&nbsp;
-<th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" height="300px" width="300px"/></th>
+<th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" height="50px" width="50px"/></th>
 &nbsp;&nbsp;
-<th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="300px" width="300px"/></th>
+<th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="50px" width="50px"/></th>
 &nbsp;&nbsp;
-<th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="300px" width="300px"/></th>
+<th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="50px" width="50px"/></th>
 &nbsp;&nbsp;
-<th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" height="300px" width="300px"/></th>
+<th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" height="50px" width="50px"/></th>
 &nbsp;&nbsp;
-<th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" height="300px" width="300px"/></th>
+<th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" height="50px" width="50px"/></th>
 </tr>
 </p>
 
