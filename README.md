@@ -53,6 +53,7 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
   &nbsp;&nbsp;
  <th> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png"width="50px" height="50px"/></th>
     &nbsp;&nbsp;
+</tr>
 <br>
   <tr>
 <th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png"width="50px" height="50px"/></th>
