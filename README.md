@@ -107,6 +107,18 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
              <a href="mailto:hailedev5@gmail.com" style="display:flex;justify-content: center;align-items: center;margin:20px 10px"><img src="mail.png" style="height:40px;width:40px"/></a>
 </p>
 </div>
+<div>
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/hailedev5">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=hailedev5&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=hailedev5&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=hailedev5&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+</div>
 <p align="center">
 <h1 style="color:Gold" align="center">🏅Certificates</h1>
  <img src="codeliber.png" id="codeliber" style="height:170px;width:300px"/>
