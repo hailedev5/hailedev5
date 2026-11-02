@@ -38,6 +38,7 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 ### 🛠️ Languages & Tools
 
 <p align="left">
+<table>
 <tr>
  <th> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50px" height="50px"/></th>
   &nbsp;&nbsp;
@@ -54,6 +55,7 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
  <th> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png"width="50px" height="50px"/></th>
     &nbsp;&nbsp;
 </tr>
+</table>
 <br>
   <tr>
 <th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png"width="50px" height="50px"/></th>
