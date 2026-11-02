@@ -50,23 +50,18 @@ Check out my portfolio and live projects at **[hailedev5.github.io](https://hail
 </tr>
 </table>
 <br>
+<table>
   <tr>
 <th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png"width="50px" height="50px"/></th>
-    &nbsp;&nbsp;
  <th> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png"width="50px" height="50px"/></th>
-    &nbsp;&nbsp;
  <th> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png"width="50px" height="50px"/></th>
-  &nbsp;&nbsp;
 <th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" height="50px" width="50px"/></th>
-&nbsp;&nbsp;
 <th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="50px" width="50px"/></th>
-&nbsp;&nbsp;
 <th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="50px" width="50px"/></th>
-&nbsp;&nbsp;
 <th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" height="50px" width="50px"/></th>
-&nbsp;&nbsp;
 <th><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" height="50px" width="50px"/></th>
 </tr>
+</table>
 </p>
 
 - **Frontend** HTML5, CSS3, JavaScript
